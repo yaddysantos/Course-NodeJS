@@ -1,11 +1,8 @@
-const nombre = "Deadpool";
-const real = "Wade Winston";
+const nombre = "Wolwerine";
 
-const normal = nombre + " " + real;
-const template = `${nombre} ${real}`;
+if (true) {
+    nombre = 'Magneto'
+}
 
-console.log(normal);
-console.log(template);
+console.log(nombre);
 
-const html = `<h1>hola</h1><p>Mundo</p>`;
- console.log(html);
